@@ -1,4 +1,4 @@
-package clasesAbstractas.ejercicioDos;
+package ejercicioDos;
 
 public abstract class Empleado 
 {
